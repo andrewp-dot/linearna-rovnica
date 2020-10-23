@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Ap/Programovanie/MAP/Projects/CLionProjects/linearna-rovnica/LinearnaRovnica.h
+
+D:/Ap/Programovanie/MAP/Projects/CLionProjects/linearna-rovnica/main.cpp
+iostream
+-
+LinearnaRovnica.h
+D:/Ap/Programovanie/MAP/Projects/CLionProjects/linearna-rovnica/LinearnaRovnica.h
+
